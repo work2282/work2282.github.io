@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://work2282.github.io/sitemap.xml
